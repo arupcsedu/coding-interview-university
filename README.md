@@ -88,10 +88,10 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - quicksort
     - merge sort
 - [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
+    - directed [X]
+    - undirected [X]
+    - adjacency matrix [X]
+    - adjacency list [X]
     - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)
@@ -841,9 +841,9 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - Notes:
     - There are 4 basic ways to represent a graph in memory:
-        - objects and pointers
-        - adjacency matrix
-        - adjacency list
+        - objects and pointers [x]
+        - adjacency matrix  [x]
+        - adjacency list  [x]
         - adjacency map
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their tradeoffs, and how to implement them in real code
